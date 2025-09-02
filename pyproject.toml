@@ -1,0 +1,11 @@
+[project]
+name = "A-Downloader"
+version = "0.1.0"
+description = "An actually good video and audio downloader from youtube"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pyinstaller>=6.15.0",
+    "pyside6>=6.9.2",
+    "yt-dlp>=2025.8.27",
+]
