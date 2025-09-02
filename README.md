@@ -23,7 +23,11 @@ uv sync
 
 Run the application:
 ```bash
+# Using python
 python main.py
+
+# Using uv
+uv run main.py 
 ```
 
 Then simply:
